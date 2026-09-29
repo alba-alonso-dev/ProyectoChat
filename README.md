@@ -6,6 +6,8 @@ Chat de escritorio multiusuario en **Java** que combina **sockets TCP** (cliente
 
 > Objetivo: practicar programación en red a bajo nivel (sockets, hilos, concurrencia, serialización y multicast) sin usar frameworks.
 
+> 🌐 **Versión web:** [ProyectoChat-Web](https://github.com/alba-alonso-dev/ProyectoChat-Web), el mismo chat reescrito con Spring Boot, WebSocket/STOMP y Angular.
+
 ![Captura del chat](docs/captura.png)
 
 ---
@@ -154,7 +156,7 @@ Proyecto académico, no pensado para producción:
 
 - [ ] Mensajes privados entre usuarios.
 - [ ] Protocolo en JSON en lugar de serialización Java.
-- [ ] Versión web: backend Spring Boot con WebSockets (STOMP) y frontend Angular.
+- [x] Versión web: [ProyectoChat-Web](https://github.com/alba-alonso-dev/ProyectoChat-Web) (Spring Boot + WebSocket/STOMP + Angular).
 
 ## 🛠️ Tecnologías
 
