@@ -1,0 +1,12 @@
+<config>
+    <!-- Ruta del icono dentro de src/main/resources -->
+    <icon_path>img/icon.png</icon_path>
+
+    <server_ip>127.0.0.1</server_ip>
+    <server_port>12345</server_port>
+
+    <broadcast_ip>239.0.0.1</broadcast_ip>
+    <broadcast_port>8888</broadcast_port>
+
+    <debug>false</debug>
+</config>
